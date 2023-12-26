@@ -1,0 +1,8 @@
+{
+  "label": "6. 활동감지",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "활동감지는 보안관리 인터페이스에 각 자원들의 현황 및 기록을 보여준다."
+  }
+}

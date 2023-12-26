@@ -41,6 +41,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          includeCurrentVersion: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -72,6 +73,9 @@ const config = {
             sidebarId: 'navSidebar',
             position: 'left',
             label: '목차',
+          },
+          {
+            type: 'docsVersionDropdown',
           },
         ],
       },

@@ -1,0 +1,8 @@
+{
+  "label": "7.2 사용자",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "해당 메뉴는 보안관리 인터페이스에서 ACRA Point 관리서버에 등록된 사용자를 보기 위한 것으로 사용자 리스트를 볼 수 있는 목록과 사용자를 그룹핑해 놓을 수 있는 역할을 제공한다."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "5. 대시보드",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "“대시보드” 메뉴는 관리자가 설정한 차트와 토폴로지, 세션관제 화면을 보여준다."
+  }
+}
