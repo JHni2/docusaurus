@@ -1,0 +1,9 @@
+.homeInfoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.homInfoCompanyTitle {
+  font-size: 1.5rem;
+}

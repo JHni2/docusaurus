@@ -1,0 +1,8 @@
+{
+  "label": "9. 이력",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "해당 메뉴는 보안관리 인터페이스에서 수행되는 작업 내역을 시간 순서대로 기록하여 보여준다."
+  }
+}

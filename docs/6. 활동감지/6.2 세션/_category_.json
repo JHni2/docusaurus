@@ -1,0 +1,8 @@
+{
+  "label": "6.2 세션",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "세션 페이지는 어떤 사용자가 어느 장비, 어떤 시스템 계정으로 로그인하였는지에 대한 세션 정보를 제공한다."
+  }
+}

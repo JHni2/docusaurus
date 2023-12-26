@@ -1,0 +1,40 @@
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.mainPage {
+  height: calc(100vh - 60px);
+}
+
+.title {
+  width: 450px;
+  font-size: 3rem;
+  line-height: 4rem;
+  text-align: start;
+  margin-bottom: 4rem;
+}
+
+.heroBanner {
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
