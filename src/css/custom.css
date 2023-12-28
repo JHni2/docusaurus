@@ -28,3 +28,147 @@
   --ifm-color-primary-lightest: #4fa4dd;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h2,
+h3,
+h4 {
+  display: inline-block;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px !important;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px !important;
+}
+
+h4 {
+  font-size: 16px;
+  margin-bottom: 10px !important;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-bold-with-margin {
+  font-weight: bold;
+  margin-bottom: 8px !important;
+}
+
+.toggle-container:last-child {
+  margin-bottom: 20px;
+}
+
+.table-container {
+  margin-bottom: 1.5rem;
+}
+
+.table-header {
+  min-width: 265px;
+  text-align: start;
+}
+
+.table-header:nth-child(2) {
+  width: 100%;
+}
+
+table thead {
+  background-color: transparent;
+}
+
+table tr,
+table td,
+table th {
+  border: none;
+}
+
+table th {
+  border-bottom: 1px solid black;
+}
+
+.numbering-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a5388;
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+}
+
+.text-in-circle {
+  color: white;
+  font-weight: bold;
+}
+
+.theme-admonition {
+  display: inline-block;
+  width: 100%;
+}
+
+.alert {
+  border-radius: 1rem;
+}
+
+.admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-Layout-styles-module {
+  margin-right: 0.8rem !important;
+}
+
+.admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-Layout-styles-module svg {
+  height: 1.2rem !important;
+  width: 1.2rem !important;
+}
+
+.admonitions-text {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.session-tab-container {
+  padding-left: 1rem;
+}
+
+.admin-ul-container {
+  padding-left: 3rem;
+}
+
+.admin-edit-continaer {
+  display: flex;
+  gap: 8rem;
+  margin-bottom: 1rem;
+}
+
+.tabs__item {
+  padding: 0.5rem 1rem;
+}
+
+.tabs__item:hover {
+  background-color: transparent;
+}
+
+.tabs__item:hover:not(.tabs__item--active) {
+  border-bottom-color: #e3e8ec;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  transition: all 0.25s ease-out;
+}
+
+.admonitionContent_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-Layout-styles-module > p {
+  padding-left: 1.5rem;
+}

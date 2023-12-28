@@ -89,6 +89,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      head: [
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family==Noto+Sans+KR&display=swap' }],
+      ],
     }),
 };
 
