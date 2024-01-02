@@ -2,7 +2,7 @@
   "label": "4. 로그인",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "description": "최고 관리자가 사용하는 보안관리 인터페이스 화면에 대한 기능을 설명한다."
+    "type": "doc",
+    "id": "로그인/로그인"
   }
 }

@@ -2,7 +2,7 @@
   "label": "3. 공통기능",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "description": "보안 관리 인터페이스의 메뉴별 공통으로 사용되는 기능을 정리하여 기술한다."
+    "type": "doc",
+    "id": "공통 기능/공통 기능"
   }
 }

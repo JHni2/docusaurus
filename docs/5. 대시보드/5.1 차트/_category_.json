@@ -1,8 +1,0 @@
-{
-  "label": "5.1 차트",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "해당 메뉴는 관리자가 설정한 차트 화면을 보여준다."
-  }
-}
